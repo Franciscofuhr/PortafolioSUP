@@ -9,7 +9,6 @@ function App() {
   return (
     <>
       <Route  path='/' component={Home} />
-      <Route  path='/' component={Carrousel} />
 
     </>
   );
