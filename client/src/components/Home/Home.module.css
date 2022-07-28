@@ -1,0 +1,26 @@
+.image {
+    height: 20em;
+    width: 20em;
+    border-radius: 500em;
+    border: solid 0.2em;
+
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.backround {
+    background-color: coral;
+    min-height: 100vh;
+    min-width: 100vh;
+    padding-top: 6em;
+}
+
+.text{
+    width: 50em;
+}
