@@ -1,0 +1,104 @@
+.react{
+    background-image: url("../../../public/images/react-icon-29.png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.node{
+    background-image: url("../../../public/images/nodejs-icon-24.png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.java{
+    background-image: url("../../../public/images/javascript-icon-png-23.png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.sql{
+    background-image: url("../../../public/images/descarga\ \(1\).png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.html{
+    background-image: url("../../../public/images/descarga\ \(3\).png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.css{
+    background-image: url("../../../public/images/descarga\ \(4\).png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.git{
+    background-image: url("../../../public/images/descarga\ \(6\).png");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 8px;
+    margin-right: 8px;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 20px;
+
+}
+
